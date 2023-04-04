@@ -80,3 +80,14 @@ server.port=8082
     }
 ```
 * You can find a simple demo for app <a href="https://user-images.githubusercontent.com/59315877/229706326-1516a262-ce85-46f1-9d01-e535b51c2870.mp4">Here</a>
+
+
+### To Deploy the application on an EC2 instance
+* Create an EC2 instance
+* Install java on the instance
+* Install Tomcat server
+* Build a spring boot app 
+* Then move the app on it and set the requierd configs for maven
+* Set requierd security group configs 
+* Run the app
+* Test the app
